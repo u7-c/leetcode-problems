@@ -54,3 +54,7 @@ int main(){
 
 
 }
+
+// agar total number of occuences nikaln ho toh kya kro
+// lastocc-firstocc+1
+// +1 imp haii 

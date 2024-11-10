@@ -32,10 +32,10 @@ int main(){
 
 
 }
-//for example start=2^31-1 and end=2^31-1 hai toh kaise mai uss int ki range ke bahar wale test case se bach sakta hu?
-//so like as usual we do (start+end)/2
+// for example start=2^31-1 and end=2^31-1 hai toh kaise mai uss int ki range ke bahar wale test case se bach sakta hu?
+// so like as usual we do (start+end)/2
 // uski jagah we can write mid=start+(end-start)/2; 
-//is tareeke se you caan save yourself from test case error   
+// is tareeke se you caan save yourself from test case error   
 
 //what is the difference between binary search and linear search?
  /* answer= in linear search suppose if there are 1000 elements in an array so to find one element you will have to 1000 comparisons
