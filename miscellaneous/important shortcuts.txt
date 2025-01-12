@@ -1,0 +1,2 @@
+ctrl+f= to find 
+alt+enter=to edit all items at once
