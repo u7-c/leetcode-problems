@@ -21,4 +21,4 @@ vector<vector<int>> pairSum(vector<int> &arr, int s){
 //you need to sort nahi toh nahi hoga answer
    sort(ans.begin(),ans.end());
    return ans;
-}
+} 
